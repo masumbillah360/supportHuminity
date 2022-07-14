@@ -1,0 +1,54 @@
+@media screen and (min-width:576px){
+    .top-banner{
+        height: 400px;
+    }
+    .banner-title{
+        font-size: 30px;
+        font-weight: 700;
+        padding: 10px 20px;
+    }
+    .banner-summary{
+        padding: 10px 15px;
+    }
+    .banner-btn{
+        padding: 5px 10px;
+        font-size: 18px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .summary{
+        padding: 0% 2%;
+    }
+    .donation-amount{
+        display:grid ;
+        grid-template-columns: auto auto;
+    }
+    .donation-amount h1{
+        width: 70px;
+        font-size: 24px;
+        font-weight: 700;
+        padding: 15px;
+    }
+    .input-amount{
+        width: 90%;
+    }
+    .planning-card{
+        display: grid;
+    }
+    .about-section-card{
+        display: grid;
+    }
+    .subscribe-section{
+        width: 95%;
+        display: grid;
+    }
+    .input-email{
+        width: 90%;
+        border-radius: 5px;
+    }
+    .submit-btn{
+        border-radius: 5px;
+        margin: 0;
+    }
+}
